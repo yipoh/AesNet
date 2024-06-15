@@ -1,4 +1,4 @@
-# AesVib
+# AesNet
 
 Color is a power which directly influences the soul. Color is the keyboard, the eyes are the hammers, the soul is the piano with many strings. The artist is the hand that plays, touching one key or another purposively, to cause vibrations in the soul.
 
