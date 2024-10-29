@@ -1,6 +1,6 @@
 <h1>AesNet </h1>
 
-_Make the visual basic model have stronger aesthetic computing capabilities
+_Make the visual basic model have stronger aesthetic computing capabilities. Try it now!_
 
  <div>
     <a href="https://github.com/yipoh/AesNet"><img src="https://img.shields.io/badge/Homepage-AesNet-pink"/></a>
