@@ -30,5 +30,22 @@ _Make the visual basic model have stronger aesthetic computing capabilities. Try
 </div>
 Coming soon.
 
+## Citation
+
+If you find our work interesting, please feel free to cite our paper:
+
+```bibtex
+@article{AesNet,
+  author={Huang, Yipo and Li, Leida and Chen, Pengfei and Wu, Haoning and Lin, Weisi and Shi, Guangming},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Multi-Modality Multi-Attribute Contrastive Pre-Training for Image Aesthetics Computing}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TPAMI.2024.3492259}}
+```
+
+
 
 
