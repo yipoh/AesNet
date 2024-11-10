@@ -40,8 +40,6 @@ If you find our work interesting, please feel free to cite our paper:
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   title={Multi-Modality Multi-Attribute Contrastive Pre-Training for Image Aesthetics Computing}, 
   year={2024},
-  volume={},
-  number={},
   pages={1-14},
   doi={10.1109/TPAMI.2024.3492259}}
 ```
