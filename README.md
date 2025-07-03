@@ -30,8 +30,10 @@ _Make the visual basic model have stronger aesthetic computing capabilities. Try
 </div>
 
 - <strong>Download Images<strong>
-  -  <a href="https://pan.baidu.com/s/1RPIVhLAgif9CC6Abl1uXYQ?pwd=aesa"><img src="https://img.shields.io/badge/BaiduYun%20-Images-blue"></a>
-  -  <a href="https://huggingface.co/datasets/YiPo/AesNet_HAND/tree/main"><img src="https://img.shields.io/badge/Hugging%20Face%20-Images-green"></a>
+
+     <a href="https://pan.baidu.com/s/1RPIVhLAgif9CC6Abl1uXYQ?pwd=aesa"><img src="https://img.shields.io/badge/BaiduYun%20-Images-blue"></a>
+     
+     <a href="https://huggingface.co/datasets/YiPo/AesNet_HAND/tree/main"><img src="https://img.shields.io/badge/Hugging%20Face%20-Images-green"></a>
 
 - <strong>Download Multi-Attribute Descriptions<strong>
 
